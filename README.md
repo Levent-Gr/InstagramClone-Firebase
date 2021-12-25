@@ -12,6 +12,13 @@ This project is a simple clone of Instagram. You can create new user and share i
 - Firebase 
 - RecyclerView
 
+## Integrating with your app 
+Download this project remove" google-services.json"from app folder.The Just add Firebase to your Android Project.
+
+These links may help you
+
+- [Add Firebase To Your Android Project](https://firebase.google.com/docs/android/setup)
+- [How To Set Up Firebase In Your Project](https://firebase.google.com)
   
 ## Create New User and Login
 ![1](https://github.com/Levent-Gr/InstagramClone-Firebase/blob/master/Screenshots/1.png?raw=true)
