@@ -2,6 +2,7 @@
 # Instagram Clone Firebase
 
 This project is a simple clone of Instagram. You can create new user and share images from your gallery.
+This project was taken from the AtilSamancioglu Udemy course.
 
 
 
